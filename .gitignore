@@ -10,3 +10,5 @@
 
 #tflog file
 terraform.log
+
+.DS_Store
