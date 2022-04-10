@@ -11,4 +11,5 @@
 #tflog file
 terraform.log
 
+.vscode/
 .DS_Store
