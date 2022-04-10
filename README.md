@@ -1,4 +1,4 @@
-# CREATE AWS VPC  BY TERRFORM
+# CREATE AWS VPC  BY TERRAFORM
 
 ## Requirements
 - Create aws account for running terraform(Permissions policies are AdministratorAccess)
